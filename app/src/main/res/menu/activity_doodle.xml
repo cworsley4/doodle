@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/setwidth" android:onClick="showWidthDialog" android:title="Set Width"></item>
+    <item android:id="@+id/setColor" android:onClick="showColorDialog" android:title="Set Color"></item>
+</menu>

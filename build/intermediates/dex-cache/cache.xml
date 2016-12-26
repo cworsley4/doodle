@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_b4e85f2243611d88f58d627fc855faccbe0c1549/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_a5cf8d6e974413cf56d44fc7eb792212913b2866/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b1fa7ced935cc2f8b04f2f6744160127d79d5a0a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_61e02c09b26321172c221a53fc50fec8a9d4df14/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_aaed89a2d953f4d064d4e071d1db03c009ca10ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d92627c4b38ce3c31bfd3dcaf8175fcd368f98f5">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9468e3e3108d3e16b23fce3fdc13b49c09d54c29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_7f78873c30d5a2ade831442d416edb0e832e1fde/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_e7a99a67b9d5d7396c742576867e620d6f5eb6ad/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cf86801da1ea593707a31157184c486d05a13da7">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9a670981e3a7a5a4e7834727fd310afb812f7b3e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_fede7702787f172945e9e9d7da3d0e3deab6aa68/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_d54c64193f32694fcccc2d54b53185b94a4d4b60/classes.dex" />
+    </item>
+    <item
+        jar="/Users/user/libs/Doodle3.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/user/libs/Doodle3.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5a4be132e67752415170badbacfc31f70c8d825b/classes.dex" />
+    </item>
+
+</items>
